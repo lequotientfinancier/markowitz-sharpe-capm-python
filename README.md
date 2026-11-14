@@ -43,13 +43,13 @@ plus les vrais titres.
 
 ## Le cours et les articles
 
-Ces notebooks accompagnent le cours « De Markowitz au CAPM » du Quotient Financier : *[lien vers la page Cours à compléter]*.
+Ces notebooks accompagnent le cours [« De Markowitz au CAPM »](https://lequotientfinancier.fr/cours/) du Quotient Financier. Le notebook 1 correspond au [chapitre 1 : Markowitz et la sélection de portefeuille](https://lequotientfinancier.fr/cours/markowitz-selection-de-portefeuille/).
 
 Les articles associés :
 
-- La théorie moderne du portefeuille : de la Bible à Ray Dalio : *[lien à compléter]*
-- Modèle de Sharpe : l'astuce de 1963 qui a rendu Markowitz calculable : *[lien à compléter]*
-- Le CAPM : *[à paraître]*
+- [La théorie moderne du portefeuille : de la Bible à Ray Dalio](https://lequotientfinancier.fr/theorie-moderne-portefeuille-markowitz/)
+- Modèle de Sharpe : l'astuce de 1963 qui a rendu Markowitz calculable : *à paraître*
+- Le CAPM : *à paraître*
 
 ## Références principales
 
