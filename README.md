@@ -43,7 +43,7 @@ plus les vrais titres.
 
 ## Le cours et les articles
 
-Ces notebooks accompagnent le cours [« De Markowitz au CAPM »](https://lequotientfinancier.fr/cours/) du Quotient Financier. Le notebook 1 correspond au [chapitre 1 : Markowitz et la sélection de portefeuille](https://lequotientfinancier.fr/cours/markowitz-selection-de-portefeuille/).
+Ces notebooks accompagnent le cours [« De Markowitz au CAPM »](https://lequotientfinancier.fr/cours/) du Quotient Financier. Le notebook 1 correspond au [chapitre 1 : Markowitz et la sélection de portefeuille](https://lequotientfinancier.fr/cours/markowitz-selection-de-portefeuille/), le notebook 2 au [chapitre 2 : le modèle de Sharpe et les modèles à facteurs](https://lequotientfinancier.fr/cours/modele-de-sharpe-facteurs/), le notebook 3 au [chapitre 3 : les modèles multifactoriels et l'estimation du risque](https://lequotientfinancier.fr/cours/modeles-multifactoriels-estimation-risque/).
 
 Les articles associés :
 
